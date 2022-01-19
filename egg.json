@@ -1,0 +1,11 @@
+{
+    "name": "unit-changer",
+    "description": "Module to change/recalculate units from weigth values, temperature values or distance values.",
+    "homepage": "https://github.com/NamelessW0lf/Deno-Unit-Changer",
+    "files": [
+      "./**/*.ts",
+      "README.md",
+      "LICENSE"
+    ],
+    "entry": "./mod.ts"
+  }
