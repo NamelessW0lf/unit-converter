@@ -55,5 +55,5 @@ var kelvin = TemperatureUnitChanger.convert(celsius, "celsius", "kelvin")
 
 ## Test it via command line
 ```
-deno run --allow-net https://deno.land/x/unit_changer/test-it.ts
+deno run --allow-net https://deno.land/x/unit_recalculator/test-it.ts
 ````
