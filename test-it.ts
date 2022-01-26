@@ -1,6 +1,6 @@
-// import { TemperatureUnitChanger } from "https://deno.land/x/unit_recalculator/mod.ts";
-// import { DistanceUnitChanger } from "https://deno.land/x/unit_recalculator/src/mod.ts";
-// import { WeightUnitChanger } from "https://deno.land/x/unit_recalculator/src/mod.ts";
+// import { TemperatureUnitChanger } from "https://deno.land/x/unit_converter/mod.ts";
+// import { DistanceUnitChanger } from "https://deno.land/x/unit_converter/src/mod.ts";
+// import { WeightUnitChanger } from "https://deno.land/x/unit_converter/src/mod.ts";
 
 import { TemperatureUnitChanger } from "./src/temperature.ts";
 import { DistanceUnitChanger } from "./src/length.ts";
