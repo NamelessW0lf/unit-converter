@@ -12,7 +12,7 @@ Please always use lowercase strings!
 
 ### Usage example for your code
 ```
-import { DistanceUnitChanger } from "https://deno.land/x/unit_changer/length.ts";
+import { DistanceUnitChanger } from "https://deno.land/x/unit_recalculator/mod.ts";
 
 var meter = 42
 //                                          Value | Old Unit | New Unit
@@ -29,7 +29,7 @@ var foot = DistanceUnitChanger.convert(meter, "meter", "foot")
 
 ### Usage example for your code
 ```
-import { WeightUnitChanger } from "https://deno.land/x/unit_changer/weight.ts";
+import { WeightUnitChanger } from "https://deno.land/x/unit_recalculator/mod.ts";
 
 var kilogram = 42
 //                                    Value  |  Old Unit  |  New Unit
@@ -44,7 +44,7 @@ var pound = WeightUnitChanger.convert(kilogram, "kilogram", "pound")
 ### Usage example for your code
 
 ```
-import { TemperatureUnitChanger } from "https://deno.land/x/unit_changer/temperature.ts"
+import { TemperatureUnitChanger } from "https://deno.land/x/unit_recalculator/mod.ts";
 
 var celsius = 42
 //                                              Value  |   Old Unit  | New Unit
