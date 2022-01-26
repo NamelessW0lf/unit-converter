@@ -1,4 +1,4 @@
-# Unit Changer (Distance, Temperature, Weights)
+# Unit Converter (Distance, Temperature, Weights)
 
 Every unit you can see in this file can be transformed into any of the other units. The Calculator works in any direction.
 Call the according method and give the following parameters in the correct order:
@@ -8,7 +8,7 @@ Call the according method and give the following parameters in the correct order
 
 Please always use lowercase strings!
 
-## Distance-Changer
+## Distance-Converter
 
 ### Usage example for your code
 ```
@@ -25,7 +25,7 @@ var nautic_miles = DistanceUnitChanger.convert(meter, "meter", "nautic_miles")
 var yards = DistanceUnitChanger.convert(meter, "meter", "yards")
 var foot = DistanceUnitChanger.convert(meter, "meter", "foot")
 ```
-## Weight-Changer
+## Weight-Converter
 
 ### Usage example for your code
 ```
@@ -39,7 +39,7 @@ var ounce = WeightUnitChanger.convert(kilogram, "kilogram", "ounce")
 var pound = WeightUnitChanger.convert(kilogram, "kilogram", "pound")
 
 ```
-## Temperature-Changer
+## Temperature-Converter
 
 ### Usage example for your code
 
