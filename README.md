@@ -11,7 +11,7 @@ Please always use lowercase strings!
 ## Distance-Converter
 
 ### Usage example for your code
-```
+```js
 import { DistanceUnitChanger } from "https://deno.land/x/unit_converter/mod.ts";
 
 var meter = 42
@@ -28,7 +28,7 @@ var foot = DistanceUnitChanger.convert(meter, "meter", "foot")
 ## Weight-Converter
 
 ### Usage example for your code
-```
+```js
 import { WeightUnitChanger } from "https://deno.land/x/unit_converter/mod.ts";
 
 var kilogram = 42
@@ -43,7 +43,7 @@ var pound = WeightUnitChanger.convert(kilogram, "kilogram", "pound")
 
 ### Usage example for your code
 
-```
+```js
 import { TemperatureUnitChanger } from "https://deno.land/x/unit_converter/mod.ts";
 
 var celsius = 42
