@@ -2,9 +2,9 @@
 // import { DistanceUnitChanger } from "https://deno.land/x/unit_recalculator/src/mod.ts";
 // import { WeightUnitChanger } from "https://deno.land/x/unit_recalculator/src/mod.ts";
 
-import { TemperatureUnitChanger } from ".src/temperature.ts";
-import { DistanceUnitChanger } from ".src/length.ts";
-import { WeightUnitChanger } from ".src/weight.ts";
+import { TemperatureUnitChanger } from "./src/temperature.ts";
+import { DistanceUnitChanger } from "./src/length.ts";
+import { WeightUnitChanger } from "./src/weight.ts";
 
 
 var meter = 42
